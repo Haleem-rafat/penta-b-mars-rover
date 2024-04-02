@@ -33,12 +33,15 @@ Follow these steps to set up the project locally:
 
 2. **Navigate to the project directory**:
 
+    ```bash
     cd mars-rover
 
 3. **Install dependencies**:
 
+    ```bash
     npm install
 
 3. **Start the application**:
 
+    ```bash
     npm start
