@@ -3,12 +3,17 @@
 Welcome to the Mars Rover application! This project simulates the movement of a rover on the surface of Mars. Users can send commands to the rover and visualize its movement while avoiding obstacles.
 
 ![Mars Rover Demo]
+https://github.com/Haleem-rafat/penta-b-mars-rover/assets/96750484/607f4193-9567-4f8c-9469-4aa6b030d9fe
+
 
 ## Features
 
 - **Command Input**: Users can input command strings (e.g., F, B, L, R) to control the rover's movement.
 - **Position Reporting**: After executing commands, the application displays the rover's final position and heading.
 - **Obstacle Avoidance**: The rover intelligently navigates around obstacles to prevent damage.
+
+
+
 
 ## Usage
 
